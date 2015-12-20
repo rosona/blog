@@ -1,0 +1,40 @@
+baseurl = "https://rosona.github.io/"
+languageCode = "en-us"
+title = "Rosona's Blog"
+author = "rosona"
+disqusShortname = "rosona"
+paginate = 10
+
+[params]
+
+	title = "大白鲸团队技术博客"
+	subtitle = "Deep Thinking"
+	copyright = "rosona All rights reserved."
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "green"
+	# Enable Google Analytics be inserting your tracking code
+	googleAnalytics = ""
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "大白鲸"
+	bio = "为大白鲸团队技术Blog，专注于机器学习，框架分析，性能优化等技术干货的分享"
+	description = "大白鲸团队技术博客"
+	location = "" # optional
+	twitter = "rongpeng@live.com" # optional
+	github = "rosona" # optional
+	email = "rongpeng@gmail.com"
+
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs. 
+	comments = "disqus"
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
